@@ -17,7 +17,7 @@ The following timeline shows the sequence of events observed during the attack:
 
 ### Supporting Evidence — Execution
 
-![Execution](../screenshots/Screenshot 2026-03-22 054710)
+![Execution](../screenshots/Screenshot 2026-03-22 054710.png)
 
 The image shows PowerShell executed with the ExecutionPolicy Bypass flag, which is commonly associated with suspicious activity.
 
