@@ -46,10 +46,10 @@ This scenario simulates a simple but realistic attack chain using PowerShell:
 The objective is to observe how each stage is reflected in logs and network traffic.
 
 Scenario details:  
-- `scenarios/`
+- `scenarios/powershell_attack_chain_analysis`
 
 Investigation and analysis:  
-- `investigations/`
+- `investigations/powershell_attack_chain`
 
 ---
 
