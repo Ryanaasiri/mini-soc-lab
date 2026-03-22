@@ -61,10 +61,7 @@ This shows a registry key being created for persistence.
 ## Snort Detection
 
 ### Snort Rules
-```snort
-    alert tcp any any -> 192.168.136.129 8000 (msg:"Possible Payload Download"; sid:1000001; rev:1;)
-    alert tcp any any -> 192.168.136.129 8000 (msg:"Suspicious HTTP Traffic"; sid:1000002; rev:1;)
-```
+
 ![Snort Rules](../screenshots/snort_rules.png)
 
 These rules detect traffic going to the attacker machine.
