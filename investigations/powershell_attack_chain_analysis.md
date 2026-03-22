@@ -17,6 +17,7 @@ The following timeline shows the sequence of events observed during the attack:
 
 ### Supporting Evidence — Execution
 
+![Execution](../screenshots/attack_chain_04_splunk_execution.png)
 
 The image shows PowerShell executed with the ExecutionPolicy Bypass flag, which is commonly associated with suspicious activity.
 
