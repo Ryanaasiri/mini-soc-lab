@@ -10,7 +10,7 @@ This analysis reconstructs a PowerShell-based attack using endpoint and network 
 
 The following timeline shows the sequence of events observed during the attack:
 
-- 02:10:54 — PowerShell execution detected (Event ID 1)  
+- 02:09:54 — PowerShell execution detected (Event ID 1)  
 - 02:16:01 — Outbound HTTP connection to attacker machine (Event ID 3)  
 - 02:27:10 — Continued communication with attacker system  
 - 02:48:42 — Registry persistence created (Event ID 13)  
